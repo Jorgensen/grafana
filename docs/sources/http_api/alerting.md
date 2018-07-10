@@ -15,7 +15,7 @@ parent = "http_api"
 You can use the Alerting API to get information about alerts and their states but this API cannot be used to modify the alert.
 To create new alerts or modify them you need to update the dashboard json that contains the alerts.
 
-This API can also be used to create, update and delete alert notifications.
+This API can also be used to create, update and delete alert notifications.。
 
 ## Get alerts
 
